@@ -1,0 +1,6 @@
+{
+  "name": "Knowledge-Driven IoT Fault Diagnosis System",
+  "description": "Industrial 12V DC motor telemetry monitoring, hybrid AI/ML fault diagnosis, real-time digital twin, and alert dispatch system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
