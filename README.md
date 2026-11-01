@@ -88,6 +88,7 @@ REST API Specifications
 Testing Methodology
 Troubleshooting & Recovery
 Final Engineering Project Report
+Dashboard:https://knowledge-driven-io-t-fault-diagons.vercel.app/
 <img width="1845" height="812" alt="image" src="https://github.com/user-attachments/assets/bb1c1d73-8287-4a83-8d3e-5ba5a9bf3cdb" />
 <img width="1910" height="754" alt="image" src="https://github.com/user-attachments/assets/f80e4b8e-0b27-42a0-83b0-fec9a89845b5" />
 <img width="1910" height="813" alt="image" src="https://github.com/user-attachments/assets/89f6ea3e-0572-4a65-881b-9f83bba2952e" />
