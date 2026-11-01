@@ -14,8 +14,7 @@ cd "Fault Diagnosis System new"
 
 # 3. Launch one-command local demonstration
 ./scripts/run_demo.sh
-Industrial Monitoring Portal: Open http://localhost:8501
-FastAPI REST API: Open http://localhost:8000/docs
+Industrial Monitoring Portal: Open https://knowledge-driven-io-t-fault-diagons.vercel.app/
 Default Credentials:
 Administrator: admin / Admin@2026
 Operator: operator / Operator@2026
